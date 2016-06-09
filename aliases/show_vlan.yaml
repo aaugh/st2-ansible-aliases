@@ -1,6 +1,6 @@
 ---
 name: chatops.ansible_show_vlan
-action_ref: st2-chatops-aliases.show_vlan
+action_ref: st2-ansible-aliases.show_vlan
 description: show vlan on remote switch
 formats:
   - "show vlan on {{hosts}}"
