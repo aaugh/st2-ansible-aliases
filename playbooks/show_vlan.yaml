@@ -1,6 +1,6 @@
 ---
-- name: Run showclock commands
-  hosts: Linux
+- name: Run showvlan commands
+  hosts: VDX
   gather_facts: false
   #connection: local
 
