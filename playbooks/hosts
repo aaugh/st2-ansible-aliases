@@ -1,2 +1,2 @@
 [VDX]
-10.180.27.197
+10.180.27.197 ansible_user=administrator ansible_ssh_pass=br0cade!
